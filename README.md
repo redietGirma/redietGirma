@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redietGirma
 - 👀 I’m interested in javascript, c#. 
 - 🌱 I’m currently working as a front-end developer
-- 💞️ I’m looking to collaborate on Angualr and react.js projects
+- 💞️ I’m looking to collaborate on Angualr, Node.js and react.js projects
 - 📫 redigirma77@gmail.com
 - 
 <!---
