@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redietGirma
+- 👋 Hi, I’m @redietGirma, a software developer based in Addis Ababa
 - 👀 I’m interested in javascript, c#. 
 - 🌱 I’m currently working as a front-end developer
 - 💞️ I’m looking to collaborate on Angualr, Node.js and react.js projects
